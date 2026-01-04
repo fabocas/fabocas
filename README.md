@@ -68,5 +68,4 @@ I also love **drawing logos** and working on creative design projects.
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />  
 </p>
 
-![snake gif](https://fabiosilva24.github.io/snake/github-contribution-grid-snake.svg)
 
